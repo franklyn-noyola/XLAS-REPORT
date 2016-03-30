@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="1" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog" tests="1" time="313.871" timestamp="2016-03-30T10:11:59">
+<testsuite errors="0" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog" tests="1" time="155.659" timestamp="2016-03-30T10:59:25">
   <properties>
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.PROMPT" value="$P$G" />
@@ -38,12 +38,12 @@
     <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_74\bin\java.exe" />
     <property name="file.encoding" value="Cp1252" />
     <property name="ant.project.default-target" value="build" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher3058258076715605062.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit1088650475458192598.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher7799334762412897978.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit2278730345374443288.properties" />
     <property name="ant.file.type.AIRBUS JENKINS" value="file" />
     <property name="env.NUMBER_OF_PROCESSORS" value="2" />
     <property name="env.APPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Roaming" />
     <property name="ant.file" value="C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\XLASJENKINS.xml" />
-    <property name="env.BUILD_TAG" value="jenkins-Delivery and Urgent Course Catalog-49" />
+    <property name="env.BUILD_TAG" value="jenkins-Delivery and Urgent Course Catalog-50" />
     <property name="java.io.tmpdir" value="C:\Windows\TEMP\" />
     <property name="user.language" value="en" />
     <property name="env.SystemDrive" value="C:" />
@@ -54,11 +54,11 @@
     <property name="env.JOB_NAME" value="Delivery and Urgent Course Catalog" />
     <property name="java.vm.info" value="mixed mode, sharing" />
     <property name="source" value="1.7" />
-    <property name="env.BUILD_DISPLAY_NAME" value="#49" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#50" />
     <property name="env.DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection" />
     <property name="sun.desktop" value="windows" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
-    <property name="env.BUILD_URL" value="http://localhost:8080/job/Delivery%20and%20Urgent%20Course%20Catalog/49/" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/Delivery%20and%20Urgent%20Course%20Catalog/50/" />
     <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="env.HUDSON_SERVER_COOKIE" value="03a5e3453fa1fed3" />
@@ -68,7 +68,7 @@
     <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
     <property name="env.windir" value="C:\Windows" />
-    <property name="env.BUILD_NUMBER" value="49" />
+    <property name="env.BUILD_NUMBER" value="50" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
     <property name="env.PYTHONPATH" value="C:\Program Files\VMware\CobraWinLDTP\" />
@@ -112,7 +112,7 @@
     <property name="sun.cpu.endian" value="little" />
     <property name="env._USE_CLASSPATH" value="no" />
     <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
-    <property name="env.GIT_PREVIOUS_COMMIT" value="52b82e8b71ff138bb5017e8976f3f1dfcfad30b5" />
+    <property name="env.GIT_PREVIOUS_COMMIT" value="6900b99ffd7e6baea7efc97d19eb512b4ed6c401" />
     <property name="env.WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe" />
     <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
     <property name="java.vm.version" value="25.74-b02" />
@@ -123,7 +123,7 @@
     <property name="os.arch" value="x86" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
-    <property name="env.BUILD_ID" value="49" />
+    <property name="env.BUILD_ID" value="50" />
     <property name="ant.core.lib" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar" />
     <property name="env.ProgramFiles" value="C:\Program Files" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -143,38 +143,12 @@
     <property name="env.RUBYLIB" value="C:\Program Files\VMware\CobraWinLDTP\ldtp\" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
-    <property name="env.HUDSON_COOKIE" value="69776cbe-bbe9-4a3b-8dd0-45c09277ce19" />
+    <property name="env.HUDSON_COOKIE" value="1930d69c-da75-447d-95f3-c806eb771008" />
     <property name="java.specification.version" value="1.8" />
     <property name="sun.arch.data.model" value="32" />
   </properties>
-  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog" name="UrgentDeliveryData" time="313.835">
-    <error message="Element is not currently visible and so may not be interacted with&#xa;Command duration or timeout: 200.14 seconds&#xa;Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;&#xa;System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_74&apos;&#xa;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#xa;Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]&#xa;Session ID: 9eccdb9c-298b-45bc-a26f-4f0904c6c2ff" type="org.openqa.selenium.ElementNotVisibleException">org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 200.14 seconds
-Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;
-System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_74&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: 9eccdb9c-298b-45bc-a26f-4f0904c6c2ff
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at org.openqa.selenium.support.ui.Select.setSelected(Select.java:323)
-	at org.openqa.selenium.support.ui.Select.selectByVisibleText(Select.java:119)
-	at AIRBUBS_XLAS_JENKINS.CourseCatalog.CourseCatalogTemplate.NonDeliveryDataTab(CourseCatalogTemplate.java:264)
-	at AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog.UrgentDeliveryData(UrgentDeliveryDataCourseCatalog.java:30)
-Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;
-System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_74&apos;
-Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Windows/TEMP/anonymous8609796769988467827webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:10045)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Windows/TEMP/anonymous8609796769988467827webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12597)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Windows/TEMP/anonymous8609796769988467827webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12614)
-	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Windows/TEMP/anonymous8609796769988467827webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:623)
-</error>
-  </testcase>
-  <system-out><![CDATA[]]></system-out>
+  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.UrgentDeliveryDataCourseCatalog" name="UrgentDeliveryData" time="155.623" />
+  <system-out><![CDATA[CATALOG-177391 Course Catalog has been created and sent to Pending Delivery Data
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
