@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog" tests="1" time="205.603" timestamp="2016-03-30T12:57:24">
+<testsuite errors="1" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog" tests="1" time="158.962" timestamp="2016-03-30T15:37:51">
   <properties>
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.PROMPT" value="$P$G" />
@@ -38,12 +38,12 @@
     <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_74\bin\java.exe" />
     <property name="file.encoding" value="Cp1252" />
     <property name="ant.project.default-target" value="build" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher4123089265815696426.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit1887887856760467253.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher4234812404241573902.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit5813323683319638122.properties" />
     <property name="ant.file.type.AIRBUS JENKINS" value="file" />
     <property name="env.NUMBER_OF_PROCESSORS" value="2" />
     <property name="env.APPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Roaming" />
     <property name="ant.file" value="C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\XLASJENKINS.xml" />
-    <property name="env.BUILD_TAG" value="jenkins-Validation Course Catalog-47" />
+    <property name="env.BUILD_TAG" value="jenkins-Validation Course Catalog-49" />
     <property name="java.io.tmpdir" value="C:\Windows\TEMP\" />
     <property name="user.language" value="en" />
     <property name="env.SystemDrive" value="C:" />
@@ -54,11 +54,11 @@
     <property name="env.JOB_NAME" value="Validation Course Catalog" />
     <property name="java.vm.info" value="mixed mode, sharing" />
     <property name="source" value="1.7" />
-    <property name="env.BUILD_DISPLAY_NAME" value="#47" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#49" />
     <property name="env.DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection" />
     <property name="sun.desktop" value="windows" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
-    <property name="env.BUILD_URL" value="http://localhost:8080/job/Validation%20Course%20Catalog/47/" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/Validation%20Course%20Catalog/49/" />
     <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="env.HUDSON_SERVER_COOKIE" value="03a5e3453fa1fed3" />
@@ -68,7 +68,7 @@
     <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
     <property name="env.windir" value="C:\Windows" />
-    <property name="env.BUILD_NUMBER" value="47" />
+    <property name="env.BUILD_NUMBER" value="49" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
     <property name="env.PYTHONPATH" value="C:\Program Files\VMware\CobraWinLDTP\" />
@@ -85,7 +85,7 @@
     <property name="java.class.version" value="52.0" />
     <property name="ant.home" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030" />
     <property name="env.Path" value="C:\Program Files\Java\jdk1.8.0_74/bin;C:\Program Files\Java\jdk1.8.0_74/bin;C:\ProgramData\Oracle\Java\javapath;C:\pik\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Users\C9854448\AppData\Local\Mozilla Firefox;C:\selenium;C:\Program Files\VMware\CobraWinLDTP\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\; C:\Program Files\Java\jdk1.8.0_74\bin;C:\AIRBUS Java\libs;" />
-    <property name="env.GIT_COMMIT" value="6900b99ffd7e6baea7efc97d19eb512b4ed6c401" />
+    <property name="env.GIT_COMMIT" value="8afdea2507b2ec7c5b9012e778a67a38884f0c8b" />
     <property name="env.JENKINS_HOME" value="C:\Program Files\Jenkins" />
     <property name="env.BASE" value="C:\Program Files\Jenkins" />
     <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
@@ -112,7 +112,7 @@
     <property name="sun.cpu.endian" value="little" />
     <property name="env._USE_CLASSPATH" value="no" />
     <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
-    <property name="env.GIT_PREVIOUS_COMMIT" value="6900b99ffd7e6baea7efc97d19eb512b4ed6c401" />
+    <property name="env.GIT_PREVIOUS_COMMIT" value="8afdea2507b2ec7c5b9012e778a67a38884f0c8b" />
     <property name="env.WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe" />
     <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
     <property name="java.vm.version" value="25.74-b02" />
@@ -123,7 +123,7 @@
     <property name="os.arch" value="x86" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
-    <property name="env.BUILD_ID" value="47" />
+    <property name="env.BUILD_ID" value="49" />
     <property name="ant.core.lib" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar" />
     <property name="env.ProgramFiles" value="C:\Program Files" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -143,12 +143,28 @@
     <property name="env.RUBYLIB" value="C:\Program Files\VMware\CobraWinLDTP\ldtp\" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
-    <property name="env.HUDSON_COOKIE" value="e95ce6be-b094-4a79-9ca3-db416cdd7938" />
+    <property name="env.HUDSON_COOKIE" value="110879f3-5a0d-45cc-a865-4257a924708c" />
     <property name="java.specification.version" value="1.8" />
     <property name="sun.arch.data.model" value="32" />
   </properties>
-  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog" name="ValidationCourse" time="205.509" />
-  <system-out><![CDATA[CATALOG-177417 Course Catalog has been created and sent to Active
-]]></system-out>
+  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog" name="ValidationCourse" time="158.918">
+    <error message="Element is not clickable at point (282.5, 336). Other element would receive the click: &lt;td class=&quot;CaptionTD&quot;&gt;&lt;/td&gt;&#xa;Command duration or timeout: 484 milliseconds&#xa;Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;&#xa;System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_74&apos;&#xa;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#xa;Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]&#xa;Session ID: 8b05a24b-dda9-424e-885e-e1d18b0570c5" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Element is not clickable at point (282.5, 336). Other element would receive the click: &lt;td class=&quot;CaptionTD&quot;&gt;&lt;/td&gt;
+Command duration or timeout: 484 milliseconds
+Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;
+System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_74&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b05a24b-dda9-424e-885e-e1d18b0570c5
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at AIRBUBS_XLAS_JENKINS.CourseCatalog.CourseCatalogTemplate.ResourcesTab(CourseCatalogTemplate.java:212)
+	at AIRBUBS_XLAS_JENKINS.CourseCatalog.ValidationCourseCatalog.ValidationCourse(ValidationCourseCatalog.java:27)
+</error>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
