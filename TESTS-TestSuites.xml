@@ -2416,7 +2416,7 @@
       <system-err><![CDATA[]]></system-err>
 
   </testsuite>
-  <testsuite errors="1" failures="0" hostname="S4KYDP6" id="8" name="SessionCatalogCancellation" package="AIRBUBS_XLAS_JENKINS.SessionCatalog" tests="1" time="372.852" timestamp="2016-03-30T13:07:31">
+  <testsuite errors="0" failures="0" hostname="S4KYDP6" id="8" name="SessionCatalogCancellation" package="AIRBUBS_XLAS_JENKINS.SessionCatalog" tests="1" time="395.856" timestamp="2016-03-30T13:29:14">
       <properties>
           <property name="java.vendor" value="Oracle Corporation" />
 
@@ -2578,7 +2578,7 @@
 
           <property name="java.class.path" value="C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\bin;C:\Users\C9854448\Desktop\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar;C:\Users\C9854448\Desktop\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;C:\selenium\selenium-2.52.0\libs\apache-mime4j-0.6.jar;C:\selenium\selenium-2.52.0\libs\bsh-2.0b4.jar;C:\selenium\selenium-2.52.0\libs\cglib-nodep-2.1_3.jar;C:\selenium\selenium-2.52.0\libs\commons-codec-1.10.jar;C:\selenium\selenium-2.52.0\libs\commons-collections-3.2.2.jar;C:\selenium\selenium-2.52.0\libs\commons-el-1.0.jar;C:\selenium\selenium-2.52.0\libs\commons-exec-1.3.jar;C:\selenium\selenium-2.52.0\libs\commons-io-2.4.jar;C:\selenium\selenium-2.52.0\libs\commons-lang3-3.4.jar;C:\selenium\selenium-2.52.0\libs\commons-logging-1.2.jar;C:\selenium\selenium-2.52.0\libs\cssparser-0.9.16.jar;C:\selenium\selenium-2.52.0\libs\gson-2.3.1.jar;C:\selenium\selenium-2.52.0\libs\guava-19.0.jar;C:\selenium\selenium-2.52.0\libs\hamcrest-core-1.3.jar;C:\selenium\selenium-2.52.0\libs\hamcrest-library-1.3.jar;C:\selenium\selenium-2.52.0\libs\htmlunit-2.18.jar;C:\selenium\selenium-2.52.0\libs\htmlunit-core-js-2.17.jar;C:\selenium\selenium-2.52.0\libs\httpclient-4.5.1.jar;C:\selenium\selenium-2.52.0\libs\httpcore-4.4.3.jar;C:\selenium\selenium-2.52.0\libs\httpmime-4.5.jar;C:\selenium\selenium-2.52.0\libs\jasper-compiler-5.5.15.jar;C:\selenium\selenium-2.52.0\libs\jasper-compiler-jdt-5.5.15.jar;C:\selenium\selenium-2.52.0\libs\jasper-runtime-5.5.15.jar;C:\selenium\selenium-2.52.0\libs\javax.servlet-api-3.1.0.jar;C:\selenium\selenium-2.52.0\libs\jcommander-1.48.jar;C:\selenium\selenium-2.52.0\libs\jetty-continuation-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-http-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-io-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-jmx-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-security-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-server-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-servlet-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-servlets-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jetty-util-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\jna-4.1.0.jar;C:\selenium\selenium-2.52.0\libs\jna-platform-4.1.0.jar;C:\selenium\selenium-2.52.0\libs\jsp-api-2.0.jar;C:\selenium\selenium-2.52.0\libs\junit-4.12.jar;C:\selenium\selenium-2.52.0\libs\nekohtml-1.9.22.jar;C:\selenium\selenium-2.52.0\libs\netty-3.5.7.Final.jar;C:\selenium\selenium-2.52.0\libs\phantomjsdriver-1.2.1.jar;C:\selenium\selenium-2.52.0\libs\sac-1.3.jar;C:\selenium\selenium-2.52.0\libs\serializer-2.7.2.jar;C:\selenium\selenium-2.52.0\libs\testng-6.9.9.jar;C:\selenium\selenium-2.52.0\libs\websocket-api-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\websocket-client-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\websocket-common-9.2.13.v20150730.jar;C:\selenium\selenium-2.52.0\libs\xalan-2.7.2.jar;C:\selenium\selenium-2.52.0\libs\xercesImpl-2.11.0.jar;C:\selenium\selenium-2.52.0\libs\xml-apis-1.4.01.jar;C:\selenium\selenium-2.52.0\selenium-java-2.52.0.jar;C:\selenium\selenium-2.52.0\selenium-java-2.52.0-srcs.jar;C:\selenium\selenium-server-standalone-2.52.0.jar;C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-launcher.jar;C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar;C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit.jar;C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit4.jar" />
 
-          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher5335082738000481503.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit7549147924513135827.properties" />
+          <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher5276667871790493950.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit3208012460318722501.properties" />
 
           <property name="env.My SQL" value="C:\Users\C9854448\Documents\mysql-5.6.23-win32\bin" />
 
@@ -2666,28 +2666,10 @@
 
       </properties>
 
-      <testcase classname="AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation" name="SessionCatalogCancellationExecution" time="370.078">
-          <error message="Element is not clickable at point (410, 146). Other element would receive the click: &lt;div class=&quot;aui-blanket&quot;&gt;&lt;/div&gt;&#xa;Command duration or timeout: 87 milliseconds&#xa;Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;&#xa;System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_77&apos;&#xa;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#xa;Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]&#xa;Session ID: e85f9940-2a67-4d8a-9b7f-9c43804abade" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: Element is not clickable at point (410, 146). Other element would receive the click: &lt;div class=&quot;aui-blanket&quot;&gt;&lt;/div&gt;
-Command duration or timeout: 87 milliseconds
-Build info: version: &apos;2.52.0&apos;, revision: &apos;4c2593c&apos;, time: &apos;2016-02-11 19:03:33&apos;
-System info: host: &apos;S4KYDP6&apos;, ip: &apos;172.30.223.134&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;x86&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_77&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: e85f9940-2a67-4d8a-9b7f-9c43804abade
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogTemplate.SessionWCancellation(SessionCatalogTemplate.java:206)
-	at AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogTemplate.SessionCatalogExecution(SessionCatalogTemplate.java:124)
-	at AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation.SessionCatalogCancellationExecution(SessionCatalogCancellation.java:51)
-</error>
+      <testcase classname="AIRBUBS_XLAS_JENKINS.SessionCatalog.SessionCatalogCancellation" name="SessionCatalogCancellationExecution" time="394.966" />
 
-      </testcase>
-
-      <system-out><![CDATA[]]></system-out>
+      <system-out><![CDATA[SESSIONS-202986 Session Catalog has been created and has been Cancelled
+]]></system-out>
 
       <system-err><![CDATA[]]></system-err>
 
