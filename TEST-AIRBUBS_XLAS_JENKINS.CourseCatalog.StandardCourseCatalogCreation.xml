@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation" tests="1" time="206.549" timestamp="2016-03-30T10:08:16">
+<testsuite errors="0" failures="0" hostname="S4KYDP6" name="AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation" tests="1" time="191.874" timestamp="2016-03-30T12:05:06">
   <properties>
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.PROMPT" value="$P$G" />
@@ -38,12 +38,12 @@
     <property name="env._JAVACMD" value="C:\Program Files\Java\jdk1.8.0_74\bin\java.exe" />
     <property name="file.encoding" value="Cp1252" />
     <property name="ant.project.default-target" value="build" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher6385832864494039956.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit4858156952736146832.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit\TEST-AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation.xml crashfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junitvmwatcher1405282043674957185.properties propsfile=C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\junit4331729352318488593.properties" />
     <property name="ant.file.type.AIRBUS JENKINS" value="file" />
     <property name="env.NUMBER_OF_PROCESSORS" value="2" />
     <property name="env.APPDATA" value="C:\Windows\system32\config\systemprofile\AppData\Roaming" />
     <property name="ant.file" value="C:\Program Files\Jenkins\workspace\AIRBUS JENKINS\XLASJENKINS.xml" />
-    <property name="env.BUILD_TAG" value="jenkins-Standard Course Catalog-63" />
+    <property name="env.BUILD_TAG" value="jenkins-Standard Course Catalog-64" />
     <property name="java.io.tmpdir" value="C:\Windows\TEMP\" />
     <property name="user.language" value="en" />
     <property name="env.SystemDrive" value="C:" />
@@ -54,11 +54,11 @@
     <property name="env.JOB_NAME" value="Standard Course Catalog" />
     <property name="java.vm.info" value="mixed mode, sharing" />
     <property name="source" value="1.7" />
-    <property name="env.BUILD_DISPLAY_NAME" value="#63" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#64" />
     <property name="env.DEFLOGDIR" value="C:\ProgramData\McAfee\DesktopProtection" />
     <property name="sun.desktop" value="windows" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
-    <property name="env.BUILD_URL" value="http://localhost:8080/job/Standard%20Course%20Catalog/63/" />
+    <property name="env.BUILD_URL" value="http://localhost:8080/job/Standard%20Course%20Catalog/64/" />
     <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
     <property name="env.HUDSON_SERVER_COOKIE" value="03a5e3453fa1fed3" />
@@ -68,7 +68,7 @@
     <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
     <property name="env.windir" value="C:\Windows" />
-    <property name="env.BUILD_NUMBER" value="63" />
+    <property name="env.BUILD_NUMBER" value="64" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
     <property name="env.PYTHONPATH" value="C:\Program Files\VMware\CobraWinLDTP\" />
@@ -85,7 +85,7 @@
     <property name="java.class.version" value="52.0" />
     <property name="ant.home" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030" />
     <property name="env.Path" value="C:\Program Files\Java\jdk1.8.0_74/bin;C:\Program Files\Java\jdk1.8.0_74/bin;C:\ProgramData\Oracle\Java\javapath;C:\pik\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;C:\Users\C9854448\AppData\Local\Mozilla Firefox;C:\selenium;C:\Program Files\VMware\CobraWinLDTP\;C:\Program Files\Git\cmd;C:\Program Files\Git\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\; C:\Program Files\Java\jdk1.8.0_74\bin;C:\AIRBUS Java\libs;" />
-    <property name="env.GIT_COMMIT" value="603bf110337c564415094e9d1573d1eac13f9c06" />
+    <property name="env.GIT_COMMIT" value="6900b99ffd7e6baea7efc97d19eb512b4ed6c401" />
     <property name="env.JENKINS_HOME" value="C:\Program Files\Jenkins" />
     <property name="env.BASE" value="C:\Program Files\Jenkins" />
     <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
@@ -112,7 +112,7 @@
     <property name="sun.cpu.endian" value="little" />
     <property name="env._USE_CLASSPATH" value="no" />
     <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
-    <property name="env.GIT_PREVIOUS_COMMIT" value="9c59d58bd6724c5e69c20a0e58c3d0d4f367d7b9" />
+    <property name="env.GIT_PREVIOUS_COMMIT" value="603bf110337c564415094e9d1573d1eac13f9c06" />
     <property name="env.WINSW_EXECUTABLE" value="C:\Program Files\Jenkins\jenkins.exe" />
     <property name="env.PROCESSOR_ARCHITECTURE" value="x86" />
     <property name="java.vm.version" value="25.74-b02" />
@@ -123,7 +123,7 @@
     <property name="os.arch" value="x86" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
-    <property name="env.BUILD_ID" value="63" />
+    <property name="env.BUILD_ID" value="64" />
     <property name="ant.core.lib" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar" />
     <property name="env.ProgramFiles" value="C:\Program Files" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -134,7 +134,7 @@
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_74\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_74\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_74\jre\classes" />
     <property name="env.ComSpec" value="C:\Windows\system32\cmd.exe" />
     <property name="env.WORKSPACE" value="C:\Program Files\Jenkins\workspace\AIRBUS JENKINS" />
-    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="9c59d58bd6724c5e69c20a0e58c3d0d4f367d7b9" />
+    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="603bf110337c564415094e9d1573d1eac13f9c06" />
     <property name="env.TEMP" value="C:\Windows\TEMP" />
     <property name="env.ANT_HOME" value="C:\Users\C9854448\Desktop\eclipse\plugins\org.apache.ant_1.8.4.v201303080030" />
     <property name="env.My SQL" value="C:\Users\C9854448\Documents\mysql-5.6.23-win32\bin" />
@@ -143,12 +143,12 @@
     <property name="env.RUBYLIB" value="C:\Program Files\VMware\CobraWinLDTP\ldtp\" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.PSModulePath" value="C:\Windows\system32\WindowsPowerShell\v1.0\Modules\" />
-    <property name="env.HUDSON_COOKIE" value="09c9cec9-7d08-49f0-9ce2-c2f2de4ab6b1" />
+    <property name="env.HUDSON_COOKIE" value="bc305427-3902-40ef-a115-df8afbd2d98a" />
     <property name="java.specification.version" value="1.8" />
     <property name="sun.arch.data.model" value="32" />
   </properties>
-  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation" name="CourseStandard" time="206.47" />
-  <system-out><![CDATA[CATALOG-177385 Course Catalog has been created and sent to Active
+  <testcase classname="AIRBUBS_XLAS_JENKINS.CourseCatalog.StandardCourseCatalogCreation" name="CourseStandard" time="191.794" />
+  <system-out><![CDATA[CATALOG-177396 Course Catalog has been created and sent to Active
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
